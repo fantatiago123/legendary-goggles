@@ -1,0 +1,31 @@
+body {
+    background-color: #d95550;
+}
+
+/*botones*/
+.bg-boton {
+    background-color: #e27c78;
+}
+
+.btn-menu {
+    background-color: #da6561;
+    color: azure;
+}
+
+/* timer */
+
+
+
+
+
+
+.border-star {
+    border-bottom: 5xp solid #ccc;
+    font-size: 7em;
+    font: size 600px;
+}
+
+
+.col {
+    color: #e27c78;
+}
